@@ -1,2 +1,12 @@
-# PromptWars-Student-Advisor
-AI-powered student performance predictor built for PromptWars 2026 using Gemini and Streamlit.
+# 🎓 Student Performance Predictor
+Built for the **PromptWars 2026** Challenge.
+
+### Tech Stack:
+- **Language:** Python
+- **UI:** Streamlit
+- **AI:** Google Gemini API
+
+### Features:
+- Predicts semester outcomes based on study hours and attendance.
+- Provides 3 AI-generated study tips.
+- Minimalist Dark Mode interface.
